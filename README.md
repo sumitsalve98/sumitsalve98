@@ -7,7 +7,7 @@
 - 🌏looking for job opportunity as data analyst / data scientist
   
 
-- ✨currently building some machine learning projects  
+- ✨currently learning microsoft power bi
   
 
 ## Connect with me  
