@@ -4,12 +4,6 @@
 - 🎯 I’m currently building skill set required for data scientist
   
 
-- 🌏looking for job opportunity as data analyst / data scientist
-  
-
-- ✨currently learning microsoft power bi
-  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sumitsalve98" target="_blank">
